@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Text logo with Inkscape
+comments: true
 ---
 
 To make a ".png" image with text but without background for the website logo, you can do as following.
